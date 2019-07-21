@@ -1,0 +1,49 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Amrita Institutions </title>
+		<link>https://kryptocodes.github.io/newsletter/</link>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<author>Srivatsan</author>
+		<rights>Copyright (c) 2019</rights>
+		<updated>2019-07-21 17:46:20 &#43;0530 IST</updated>
+		
+		<item>
+			<title>Rotaract Club Inauguration</title>
+			<link>https://kryptocodes.github.io/newsletter/new-post/</link>
+			<pubDate>Sun, 21 Jul 2019 17:46:20 IST</pubDate>
+			<author>Srivatsan</author>
+			<guid>https://kryptocodes.github.io/newsletter/new-post/</guid>
+			<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.rotary.org/sites/all/themes/rotary_rotaryorg/images/rotary-logo-text.svg" medium="image" type="image/jpg" width="100" height="100" />
+			<description>
+
+&lt;p&gt;class: Club
+background-color:#000&lt;/p&gt;
+
+&lt;h1 id=&#34;new-post&#34;&gt;New Post&lt;/h1&gt;
+
+&lt;h2 id=&#34;subtitle&#34;&gt;Subtitle&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Slides are at &lt;a href=&#34;http://example.org/talks/&#34;&gt;http://example.org/talks/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Ask questions anytime&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;slides-and-contact-information&#34;&gt;Slides and Contact Information&lt;/h1&gt;
+
+&lt;p&gt;.qrcode.db.fr.w-40pct.ml-4[]&lt;/p&gt;
+
+&lt;p&gt;Slides are at &lt;a href=&#34;http://example.org/talks/&#34;&gt;http://example.org/talks/&lt;/a&gt; or you can scan the QR code.&lt;/p&gt;
+
+&lt;p&gt;Contact:&lt;/p&gt;
+</description>
+		</item>
+		
+	</channel>
+</rss>
